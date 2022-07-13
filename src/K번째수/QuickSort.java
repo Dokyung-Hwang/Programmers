@@ -43,7 +43,7 @@ public class QuickSort {
         return start;
     }
 
-    // Start와 end를 스왑
+    // Start와 end를스왑
     private static void swap(int[] arr, int start, int end) {
         int tmp = arr[start];
         arr[start] = arr[end];
