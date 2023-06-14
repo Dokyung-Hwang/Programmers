@@ -1,11 +1,9 @@
 package stackAndQueue.같은숫자는싫어;
 
 import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.Queue;
 import java.util.Stack;
 
-public class Main {
+public class Solution {
     public static void main(String[] args) {
         int[] arr1 = {1, 1, 1, 3, 0, 1, 1};
         int[] arr2 = {4, 4, 4, 3, 3};
